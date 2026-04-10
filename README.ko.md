@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/the-world-mod-logo.svg" width="220" alt="The World Mod logo">
+  <img src="./assets/the-world-mod-logo.svg" width="320" alt="The World Mod logo">
 </p>
 
 # The World Mod
