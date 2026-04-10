@@ -1,0 +1,5 @@
+THE WORLD MOD is a global OOTP 27 quickstart built around a wider baseball universe.
+
+This quickstart restores a modern NPB environment while keeping the broader world structure intact, with custom rosters, ratings, uniforms, logos, FaceGen, and ballpark resources prepared for a richer international save.
+
+If you want a WORLD setup with stronger NPB support and a more complete overseas baseball atmosphere, this is the version to play.
