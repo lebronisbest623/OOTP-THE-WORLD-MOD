@@ -30,6 +30,12 @@ OOTP 27용으로 제작된 독립 퀵스타트 배포본입니다.
 2. 추가 리소스까지 함께 쓰려면 `the-world-mod` 안의 파일도 OOTP 27 데이터 폴더에 맞게 복사합니다.
 3. 이미 같은 이름의 파일이 있다면 백업 후 교체하는 것을 권장합니다.
 
+## 중요 안내
+
+- `Japanese Professional Baseball`로 등록된 리그명과 현재 포함된 구단명 체계는 의도된 설정입니다.
+- 이는 라이선스 문제를 피하기 위한 조치입니다.
+- 의도한 구성을 유지하려면 리그명이나 구단명을 임의로 수정하지 마세요.
+
 ## Special Thanks To
 
 - [silvam14](https://forums.ootpdevelopments.com/): 이번 배포본에 포함된 여러 NPB 구장 제작

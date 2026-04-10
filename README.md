@@ -30,6 +30,12 @@ This release includes a complete `THE_WORLD_MOD.quick` quickstart for OOTP 27, a
 2. Copy the contents of `the-world-mod` into the appropriate OOTP 27 data folders if you want the included supporting resources as well.
 3. If files with the same names already exist, back them up before replacing them.
 
+## Important
+
+- Names such as `Japanese Professional Baseball` and the included team naming scheme are intentional.
+- They are used to avoid licensing issues.
+- Do not arbitrarily rename the league or team names if you want to preserve the intended setup.
+
 ## Special Thanks To
 
 - [silvam14](https://forums.ootpdevelopments.com/) for several NPB ballparks used in this release
