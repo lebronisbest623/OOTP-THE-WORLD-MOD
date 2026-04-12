@@ -2,3 +2,4 @@ THE_WORLD_MOD.quick/retired.dat filter=lfs diff=lfs merge=lfs -text
 THE-WORLD-MOD.quick/retired.dat filter=lfs diff=lfs merge=lfs -text
 THE-WORLD-MOD.quick/auto-save/retired.dat filter=lfs diff=lfs merge=lfs -text
 THE_WORLD_MOD.quick/auto-save/retired.dat filter=lfs diff=lfs merge=lfs -text
+THE-WORLD-MOD.wtp filter=lfs diff=lfs merge=lfs -text
