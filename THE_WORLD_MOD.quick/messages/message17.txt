@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 24 year-old RHP <Daniel Rojas:player#50706> of the <Tupper Lake RiverPigs:team#375> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Daniel Rojas:player#50706>, 24, <Tupper Lake RiverPigs:team#375>
+2) 2B <Yosuke Muraoka:player#68194>, 24, <Japan Islanders:team#529>
+3) 3B <Eduar Ramirez:player#50328>, 24, <Plattsburgh Thunderbirds:team#374>
+4) 3B <Yosuke Hamada:player#68191>, 23, <Japan Islanders:team#529>
+5) SS <Roman Ruiz:player#48055>, 25, <Plattsburgh Thunderbirds:team#374>
+6) RHP <Jared Dingus:player#57549>, 24, <Tupper Lake RiverPigs:team#375>
+7) RHP <Jessel Soto:player#50937>, 24, <Saranac Lake Surge:team#376>
+8) RHP <Edangel Tovar:player#48127>, 25, <Tupper Lake RiverPigs:team#375>
+9) 2B <Sean Mendoza:player#22701>, 25, <Tupper Lake RiverPigs:team#375>
+10) RHP <Shinya Yamauchi:player#68184>, 24, <Japan Islanders:team#529>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

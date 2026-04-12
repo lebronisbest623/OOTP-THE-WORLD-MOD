@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 24 year-old LHP <Julio Robaina:player#48406> of the <Quintana Roo Tigres:team#168> is the #1 prospect overall.
+
+Here is the top 10:
+1) LHP <Julio Robaina:player#48406>, 24, <Quintana Roo Tigres:team#168>
+2) LHP <Jorge Rodriguez:player#48488>, 25, <Monclova Acereros:team#174>
+3) RHP <Patricio Ress:player#54707>, 22, <Monclova Acereros:team#174>
+4) C <Fernando Villalobos:player#53806>, 23, <Mexico Diablos Rojos:team#172>
+5) RHP <Erick Rodriguez:player#55406>, 23, <Monterrey Sultanes:team#167>
+6) C <Fabian Urbina:player#53951>, 24, <Yucatan Leones:team#178>
+7) C <Heber Villalobos:player#63160>, 22, <Oaxaca Guerreros:team#170>
+8) 2B <Luis Santos:player#47441>, 26, <Monterrey Sultanes:team#167>
+9) RHP <Saul Arias:player#70317>, 21, <Mexico Diablos Rojos:team#172>
+10) C <Geraldi Diaz:player#46286>, 25, <Durango Generales:team#298>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

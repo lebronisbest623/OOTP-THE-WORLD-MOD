@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 23 year-old RHP <Richard Svoboda:player#57952> of the <SaBaT Praha Baseball:team#385> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Richard Svoboda:player#57952>, 23, <SaBaT Praha Baseball:team#385>
+2) C <Antonin Veleta:player#58136>, 21, <SaBaT Praha Baseball:team#385>
+3) LHP <Jiri Grossmann:player#64192>, 20, <Blansko Olympia:team#342>
+4) C <Stepan Veleta:player#57948>, 23, <SaBaT Praha Baseball:team#385>
+5) RHP <Adam Brenner:player#64154>, 24, <Jablonec Baseball Blesk:team#450>
+6) C <Filip Jangl:player#57959>, 21, <SaBaT Praha Baseball:team#385>
+7) RHP <Krystof Kavan:player#57956>, 23, <SaBaT Praha Baseball:team#385>
+8) RHP <Jan Komorous:player#63889>, 24, <Kotlarka Praha Baseball:team#346>
+9) LF <Matyas Kornacki:player#63890>, 24, <Kotlarka Praha Baseball:team#346>
+10) LHP <Krystof Hasal:player#57957>, 23, <SaBaT Praha Baseball:team#385>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 25 year-old RHP <Mauricio Rodriguez:player#48025> of the <Nettuno BC 1945:team#351> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Mauricio Rodriguez:player#48025>, 25, <Nettuno BC 1945:team#351>
+2) RHP <Cal Maduro:player#50783>, 24, <Collecchio Baseball Club:team#369>
+3) RHP <Riccardo Mazzanti:player#66902>, 18, <Nettuno BC 1945:team#351>
+4) RHP <Alex Giovanardi:player#66528>, 19, <Poviglio Baseball ASD:team#512>
+5) 3B <Edoardo Cornelli:player#66899>, 19, <Parma Ciemme Oltretorrente BC:team#476>
+6) 1B <Mattia Pancellini:player#66402>, 24, <Grosseto Big Mat Villa Croci:team#510>
+7) LF <Endy Estrada:player#51352>, 23, <Senago Milano United:team#366>
+8) C <Niccolò Cinelli:player#66392>, 23, <Grosseto Big Mat Villa Croci:team#510>
+9) RHP <Daniele Di Persia:player#66900>, 18, <Nettuno BC 1945:team#351>
+10) RHP <Uriel Curvelo:player#54877>, 23, <Longbridge 2000 BC:team#487>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

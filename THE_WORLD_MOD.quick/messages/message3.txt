@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 20 year-old RHP <Jun-Wei Zhang:player#57702> of the <CTBC Brothers:team#158> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Jun-Wei Zhang:player#57702>, 20, <CTBC Brothers:team#158>
+2) RHP <Yu-Hung Chen:player#152624>, 24, <TSG Hawks:team#560>
+3) RHP <Shih-Hsiang Lin:player#65574>, 24, <TSG Hawks:team#560>
+4) SS <Qing-Ran Ji:player#152603>, 23, <TSG Hawks:team#560>
+5) C <Chan-Yi Lee:player#65242>, 23, <Wei Chuan Dragons:team#362>
+6) SS <Chen-Ming Hsu:player#63192>, 23, <Fubon Guardians:team#159>
+7) C <Yi-An Liao:player#152605>, 22, <TSG Hawks:team#560>
+8) C <Hsiang Chang:player#65233>, 23, <Uni-President Lions:team#160>
+9) 1B <Ping-Yang Huang:player#152634>, 22, <TSG Hawks:team#560>
+10) RHP <Chih-Chieh Chen:player#65227>, 23, <CTBC Brothers:team#158>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

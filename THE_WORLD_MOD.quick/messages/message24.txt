@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 18 year-old LHP <Erik Gustafson:player#153385> of the <Croydon Pirates:team#578> is the #1 prospect overall.
+
+Here is the top 10:
+1) LHP <Erik Gustafson:player#153385>, 18, <Croydon Pirates:team#578>
+2) RHP <Jacob Henry:player#155636>, 16, <Leicester Blue Sox:team#581>
+3) RHP <Tim Scarlett:player#57110>, 23, <London Mets:team#557>
+4) RHP <Alex Deacon:player#66608>, 22, <Sheffield Bruins:team#558>
+5) 2B <Ray Sass:player#59528>, 25, <Sheffield Bruins:team#558>
+6) CF <Jackson VanZee:player#59979>, 24, <Croydon Pirates:team#578>
+7) C <Ben McGinnes:player#155664>, 24, <Liverpool Trojans:team#580>
+8) 3B <Dylan Lawler:player#153494>, 18, <Croydon Pirates:team#578>
+9) C <Taisei Nakahara:player#155725>, 16, <London Mets:team#557>
+10) SS <Nicholas Yung Yu Hin:player#155671>, 20, <Liverpool Trojans:team#580>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

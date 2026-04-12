@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 24 year-old C <Faenza Bishop:player#70008> of the <Auckland Tuatara:team#310> is the #1 prospect overall.
+
+Here is the top 10:
+1) C <Faenza Bishop:player#70008>, 24, <Auckland Tuatara:team#310>
+2) RHP <Dylan Clarke:player#62739>, 23, <Sydney Blue Sox:team#240>
+3) LHP <Maxim Watson:player#62607>, 24, <Brisbane Bandits:team#245>
+4) LHP <Genevieve Beacom:player#65411>, 21, <Melbourne Aces:team#243>
+5) RHP <Maddux Stivey:player#62738>, 22, <Perth Heat:team#244>
+6) LF <Charlie Collins:player#62734>, 23, <Canberra Cavalry:team#242>
+7) SS <Byron Armstrong:player#56828>, 25, <Perth Heat:team#244>
+8) LF <Trent Buchanan:player#56819>, 24, <Canberra Cavalry:team#242>
+9) RF <Cooper Grant:player#56801>, 22, <Auckland Tuatara:team#310>
+10) 3B <Dante Caruso:player#56826>, 24, <Melbourne Aces:team#243>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 19 year-old RHP <Jan Raunigger:player#65395> of the <Traiskirchen Grasshoppers:team#515> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Jan Raunigger:player#65395>, 19, <Traiskirchen Grasshoppers:team#515>
+2) RHP <Anatol Weinwurm:player#64283>, 19, <Traiskirchen Grasshoppers:team#515>
+3) 2B <Luca Holdhaus:player#66911>, 19, <Wiener Neustadt Diving Ducks:team#517>
+4) C <Eric Clauss:player#66761>, 20, <Traiskirchen Grasshoppers:team#515>
+5) C <Luis Portner:player#64259>, 20, <Vienna Wanderers:team#522>
+6) 3B <Jakob Schaffer:player#64278>, 21, <Traiskirchen Grasshoppers:team#515>
+7) RHP <Maximilian Müller:player#66914>, 19, <Traiskirchen Grasshoppers:team#515>
+8) LF <Jakob Rhomberg:player#66797>, 22, <Dornbirn Indians:team#521>
+9) LF <Maximilian Spitzhirn:player#66755>, 20, <Vienna Metrostars:team#518>
+10) LF <Marcel Casagrande:player#66806>, 24, <Feldkirch Cardinals:team#520>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 23 year-old RHP <Brian Severino:player#66367> of the <Codogno Jaguars ‘67:team#539> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Brian Severino:player#66367>, 23, <Codogno Jaguars ‘67:team#539>
+2) LHP <Edoardo Uttini:player#66370>, 22, <Codogno Jaguars ‘67:team#539>
+3) RHP <Filippo Meazza:player#64401>, 20, <Milano 1946:team#473>
+4) RHP <Diego Zorzet:player#63702>, 22, <Rangers Redipuglia:team#309>
+5) RHP <Daniel Francini:player#66183>, 19, <Fiorentina Lions:team#489>
+6) RHP <Gian Marco Zoni:player#66436>, 24, <Junior Parma Baseball Club:team#540>
+7) SS <Bryan De Aza:player#66501>, 24, <Padule Polisportiva:team#537>
+8) SS <Matteo Scialpi:player#66432>, 25, <Junior Parma Baseball Club:team#540>
+9) 3B <Alessandro Vitali:player#66497>, 24, <Pianoro Baseball Club:team#541>
+10) 2B <Christian De Boni:player#66035>, 19, <Bolzano Baseball Club Pool 77:team#480>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

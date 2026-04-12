@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 20 year-old RHP <Filip Kollmann:player#64181> of the <Trebic Nuclears:team#347> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Filip Kollmann:player#64181>, 20, <Trebic Nuclears:team#347>
+2) 1B <Jan Kozel:player#66880>, 19, <Arrows Ostrava Baseball:team#345>
+3) RHP <Matyas Nemcansky:player#64189>, 21, <Cardion Hrosi Brno Baseball:team#344>
+4) CF <Jonas Krejci:player#64194>, 20, <Draci Brno Baseball:team#348>
+5) SS <Jakub Sin:player#18738>, 24, <Arrows Ostrava Baseball:team#345>
+6) 3B <Tomas Ricny:player#55819>, 22, <Technika Brno Baseball:team#341>
+7) 2B <Jan Bilicek:player#68046>, 20, <Trebic Nuclears:team#347>
+8) C <Jaroslav Moravec:player#64195>, 20, <Draci Brno Baseball:team#348>
+9) RHP <Vojtech Ventruba:player#64193>, 19, <Draci Brno Baseball:team#348>
+10) C <Lukas Jelinek:player#64171>, 20, <Sokol Hluboka Baseball:team#451>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

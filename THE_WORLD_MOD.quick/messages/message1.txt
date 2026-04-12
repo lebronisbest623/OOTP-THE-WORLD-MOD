@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 21 year-old 2B <Kevin McGonigle:player#60973> of the <Detroit Tigers:team#10> is the #1 prospect overall.
+
+Here is the top 10:
+1) 2B <Kevin McGonigle:player#60973>, 21, <Detroit Tigers:team#10>
+2) RHP <Nolan McLean:player#24337>, 24, <New York Mets:team#19>
+3) SS <Konnor Griffin:player#65640>, 19, <Pittsburgh Pirates:team#22>
+4) LHP <Liam Doyle:player#65386>, 21, <St. Louis Cardinals:team#26>
+5) C <Carter Jensen:player#56288>, 22, <Kansas City Royals:team#13>
+6) LHP <Kade Anderson:player#60881>, 21, <Seattle Mariners:team#24>
+7) CF <Max Clark:player#58262>, 21, <Detroit Tigers:team#10>
+8) 3B <Sebastian Walcott:player#152126>, 19, <Texas Rangers:team#28>
+9) RHP <Andrew Painter:player#54870>, 22, <Philadelphia Phillies:team#21>
+10) RHP <Bubba Chandler:player#61834>, 23, <Pittsburgh Pirates:team#22>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

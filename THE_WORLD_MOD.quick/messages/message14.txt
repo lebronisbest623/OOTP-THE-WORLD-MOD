@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 24 year-old LHP <Yaferson Lopez:player#70010> of the <Rouen Huskies:team#328> is the #1 prospect overall.
+
+Here is the top 10:
+1) LHP <Yaferson Lopez:player#70010>, 24, <Rouen Huskies:team#328>
+2) RHP <Arthur Bidaut:player#55776>, 22, <Montpellier Barracudas:team#334>
+3) 2B <Dorian Bouniol:player#65260>, 20, <Montpellier Barracudas:team#334>
+4) C <Adrian Ramos:player#55786>, 24, <Savigny-sur-Orge Lions:team#336>
+5) C <Florent Riep:player#66878>, 19, <Rouen Huskies:team#328>
+6) LF <Nolan Zara:player#65271>, 20, <Montpellier Barracudas:team#334>
+7) RHP <Sacha Barette:player#65249>, 20, <Savigny-sur-Orge Lions:team#336>
+8) RF <Guillaume Saucier:player#65264>, 21, <Montpellier Barracudas:team#334>
+9) C <Adriano Terlizzi:player#65056>, 22, <Rouen Huskies:team#328>
+10) RHP <Liam Tranbarger:player#65263>, 21, <Montpellier Barracudas:team#334>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

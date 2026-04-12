@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 18 year-old RHP <Woo-jin Yang:player#155767> of the <LG Twins:team#147> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Woo-jin Yang:player#155767>, 18, <LG Twins:team#147>
+2) RHP <Ji-hoon Park:player#155821>, 19, <kt wiz:team#157>
+3) RHP <Ho-beom Lee:player#155798>, 18, <Samsung Lions:team#139>
+4) RHP <Dong-hyun Kim:player#154477>, 20, <kt wiz:team#157>
+5) RHP <Dong-geon Shin:player#155823>, 18, <Lotte Giants:team#143>
+6) RHP <Jun-hyun Park:player#155818>, 18, <Kiwoom Heroes:team#141>
+7) C <Yul-ye Lee:player#154476>, 19, <SSG Landers:team#144>
+8) 3B <Jae-in Shin:player#155809>, 18, <NC Dinos:team#146>
+9) RHP <Min-joon Kim:player#155788>, 19, <SSG Landers:team#144>
+10) 2B <Brayden Allomes:player#46045>, 25, <KIA Tigers:team#145>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

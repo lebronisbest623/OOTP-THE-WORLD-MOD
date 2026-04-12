@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 17 year-old RHP <Danyll Redan:player#153312> of the <Amsterdam Pirates:team#200> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Danyll Redan:player#153312>, 17, <Amsterdam Pirates:team#200>
+2) RHP <Tobias Imming:player#153184>, 19, <Kinheim:team#286>
+3) RHP <Zane Hendrickx:player#65320>, 21, <Oosterhout Twins:team#289>
+4) C <Jayvon Vicario:player#153311>, 19, <Kinheim:team#286>
+5) RHP <Koen Ghijsen:player#66639>, 17, <Bussum HCAW:team#204>
+6) RHP <Kimi Verkruijssen:player#66897>, 18, <Utrecht UVV:team#566>
+7) 2B <Raydley Legito:player#66919>, 22, <RCH Pinguins:team#530>
+8) CF <Bodie Eskes:player#153186>, 19, <Kinheim:team#286>
+9) 2B <Mauricio Montenegro:player#66892>, 18, <Curacao Neptunus:team#198>
+10) RHP <Lucas den Duijn:player#153179>, 21, <Oosterhout Twins:team#289>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

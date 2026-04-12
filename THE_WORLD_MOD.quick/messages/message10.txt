@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 24 year-old RHP <Scott Rouse:player#155860> of the <High Point Rockers:team#306> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Scott Rouse:player#155860>, 24, <High Point Rockers:team#306>
+2) RHP <Jack Nedrow:player#65657>, 23, <York Revolution:team#254>
+3) LF <David Smith:player#59604>, 25, <Lancaster Barnstormers:team#253>
+4) RHP <Nicholas Regalado:player#55986>, 23, <York Revolution:team#254>
+5) 1B <Bryce Cannon:player#57382>, 23, <Hagerstown Flying Boxcars:team#562>
+6) SS <Joshua Day:player#55263>, 25, <York Revolution:team#254>
+7) LHP <Carlos Meza:player#49249>, 25, <Charleston Dirty Birds:team#467>
+8) LF <Sebastian Alexander:player#65384>, 24, <Lancaster Barnstormers:team#253>
+9) LHP <Kaleb Sophy:player#60002>, 25, <Lexington Legends:team#452>
+10) RHP <Shane Gray:player#59098>, 25, <York Revolution:team#254>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

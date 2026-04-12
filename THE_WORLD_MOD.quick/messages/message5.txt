@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 24 year-old RHP <Jordys Rodriguez:player#58319> of the <Villa Clara Naranjas:team#191> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Jordys Rodriguez:player#58319>, 24, <Villa Clara Naranjas:team#191>
+2) LF <Luis Machado:player#58324>, 25, <Villa Clara Naranjas:team#191>
+3) RHP <Alejandro Leon:player#58525>, 25, <Camaguey Ganaderos:team#188>
+4) C <Misael Canete:player#57032>, 24, <Isla de la Juventud Toronjeros:team#180>
+5) LHP <Pedro Gonzalez:player#58318>, 23, <Villa Clara Naranjas:team#191>
+6) LF <Alejandro Escobar:player#56643>, 24, <Sancti Spiritus Gallos:team#187>
+7) RHP <Luis Martin:player#58453>, 25, <Guantanamo Indios:team#193>
+8) RHP <Roger Bolanos:player#56973>, 23, <Mayabeque Huracanes:team#182>
+9) CF <Francisco Venecia:player#58473>, 24, <Granma Alazanes:team#192>
+10) 2B <Kevin Arévalo:player#57033>, 23, <Sancti Spiritus Gallos:team#187>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

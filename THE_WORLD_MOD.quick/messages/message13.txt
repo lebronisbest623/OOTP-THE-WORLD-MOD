@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 20 year-old RHP <Juan Salazar:player#66935> of the <Buchbinder Legionare:team#322> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Juan Salazar:player#66935>, 20, <Buchbinder Legionare:team#322>
+2) RHP <Andrius Stravinskas Jr.:player#64563>, 21, <Buchbinder Legionare:team#322>
+3) 2B <Anderson Zambrano:player#65280>, 21, <Buchbinder Legionare:team#322>
+4) 2B <Anderson Pena Vera:player#64567>, 19, <Buchbinder Legionare:team#322>
+5) SS <Elie Musoni:player#64566>, 21, <Buchbinder Legionare:team#322>
+6) LF <Luca Schwarz:player#64979>, 19, <Paderborn Untouchables:team#316>
+7) RHP <Matthias Vogl:player#64570>, 20, <Buchbinder Legionare:team#322>
+8) C <Domenic Rauwolf:player#64568>, 19, <Buchbinder Legionare:team#322>
+9) RF <Justus Moritz:player#64565>, 20, <Buchbinder Legionare:team#322>
+10) C <Owen Fierlbeck:player#69662>, 18, <Buchbinder Legionare:team#322>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

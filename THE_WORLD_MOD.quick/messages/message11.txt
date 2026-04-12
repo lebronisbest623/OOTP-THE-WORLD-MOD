@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 25 year-old LHP <Pablo Garabitos:player#49681> of the <Quebec Capitales:team#261> is the #1 prospect overall.
+
+Here is the top 10:
+1) LHP <Pablo Garabitos:player#49681>, 25, <Quebec Capitales:team#261>
+2) RHP <Joelvis Del Rosario:player#48585>, 24, <Washington Wild Things:team#267>
+3) RHP <Joshua Paulina:player#57237>, 24, <Mississippi Mud Monsters:team#574>
+4) RHP <Jordan Goldmann:player#60467>, 24, <Windy City ThunderBolts:team#265>
+5) LHP <Donovan Burke:player#59188>, 24, <Gateway Grizzlies:team#268>
+6) LHP <Daniel Brown:player#57580>, 23, <Windy City ThunderBolts:team#265>
+7) SS <Jankel Ortiz:player#61521>, 21, <New Jersey Jackals:team#260>
+8) RHP <Luis Rodriguez:player#59623>, 24, <Trois-Rivieres Aigles:team#262>
+9) SS <Winder Diaz:player#62918>, 23, <Windy City ThunderBolts:team#265>
+10) LF <Brett Roberts:player#54634>, 24, <Washington Wild Things:team#267>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

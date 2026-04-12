@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 23 year-old LHP <Andrew Armstrong:player#57075> of the <Missoula PaddleHeads:team#458> is the #1 prospect overall.
+
+Here is the top 10:
+1) LHP <Andrew Armstrong:player#57075>, 23, <Missoula PaddleHeads:team#458>
+2) RHP <Cole Cressend:player#57477>, 23, <Yuba-Sutter High Wheelers:team#565>
+3) LHP <Riley Phillips:player#57128>, 24, <Rocky Mountain Vibes:team#457>
+4) RHP <Miguel Hernandez:player#64027>, 23, <Ogden Raptors:team#462>
+5) LHP <Connor Markl:player#57267>, 23, <Boise Hawks:team#461>
+6) RHP <Ethan Bates:player#57228>, 24, <Yuba-Sutter High Wheelers:team#565>
+7) 1B <Xavier Casserilla:player#56314>, 22, <Glacier Range Riders:team#527>
+8) LF <Landon Wallace:player#57100>, 24, <Yuba-Sutter High Wheelers:team#565>
+9) RHP <Ryan Wentz:player#69031>, 23, <Missoula PaddleHeads:team#458>
+10) LF <Kellum Clark:player#44530>, 24, <Rocky Mountain Vibes:team#457>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

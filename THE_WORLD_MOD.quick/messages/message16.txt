@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 22 year-old LHP <Jan Soriano:player#63892> of the <CB Barcelona Beisbol:team#352> is the #1 prospect overall.
+
+Here is the top 10:
+1) LHP <Jan Soriano:player#63892>, 22, <CB Barcelona Beisbol:team#352>
+2) RHP <Jose Montilla:player#58416>, 23, <Valencia Astros:team#358>
+3) 2B <Oric Madrigal:player#70000>, 20, <Tenerife Marlins:team#356>
+4) 2B <Lluis Bádenas:player#66929>, 21, <CB Barcelona Beisbol:team#352>
+5) 1B <Tomas McMahon:player#62817>, 21, <Miralbueno Zaragoza Beisbol:team#355>
+6) C <Elvinyer Lopez:player#69657>, 20, <CB Barcelona Beisbol:team#352>
+7) RHP <Gerardo Finol:player#62827>, 21, <Tenerife Marlins:team#356>
+8) RHP <Mauricio Querales:player#62781>, 22, <CBS Rivas Beisbol:team#371>
+9) LF <Jonathan Isaer Rodriguez:player#52841>, 23, <Valencia Astros:team#358>
+10) C <Jamie Galan:player#62816>, 23, <Miralbueno Zaragoza Beisbol:team#355>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

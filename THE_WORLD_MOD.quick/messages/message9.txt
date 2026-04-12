@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 24 year-old RHP <Arij Fransen:player#53704> of the <Winnipeg Goldeyes:team#251> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Arij Fransen:player#53704>, 24, <Winnipeg Goldeyes:team#251>
+2) LF <Yosy Galan:player#58385>, 24, <Gary SouthShore RailCats:team#250>
+3) LHP <Kevin Vaupel:player#59926>, 24, <Winnipeg Goldeyes:team#251>
+4) 1B <T.J. Schofield-Sam:player#27681>, 24, <Winnipeg Goldeyes:team#251>
+5) LHP <Miguel Pozo:player#54489>, 24, <Sioux City Explorers:team#247>
+6) RHP <Isaac Mendez:player#59766>, 24, <Milwaukee Milkmen:team#305>
+7) C <Carlos Amaya:player#55669>, 24, <Milwaukee Milkmen:team#305>
+8) CF <Tre Fletcher:player#25515>, 24, <Chicago Dogs:team#302>
+9) RHP <Noah Millikan:player#155621>, 23, <Winnipeg Goldeyes:team#251>
+10) RHP <Zach Murray:player#56144>, 24, <Lincoln Saltdogs:team#249>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

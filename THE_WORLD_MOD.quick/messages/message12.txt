@@ -1,0 +1,15 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 22 year-old RHP <Juan Blanco:player#151077> of the <Trinidad Triggers:team#278> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Juan Blanco:player#151077>, 22, <Trinidad Triggers:team#278>
+2) RHP <Christopher Guzman:player#151023>, 24, <Roswell Invaders:team#274>
+3) C <Chase Wells:player#151058>, 24, <Santa Fe Fuego:team#277>
+4) LF <Jacob Peterson:player#151047>, 25, <Santa Cruz Seaweed:team#372>
+5) RHP <Antwon Herndon-Walker:player#69765>, 25, <Santa Rosa Scuba Divers:team#552>
+6) SS <Mike Williams:player#151005>, 25, <Garden City Wind:team#275>
+7) RHP <Cameron Isbell:player#150980>, 25, <Bakersfield Train Robbers:team#273>
+8) RHP <Brenton Thomas:player#151843>, 25, <Santa Fe Fuego:team#277>
+9) RHP <Jordan Benson:player#150974>, 25, <Bakersfield Train Robbers:team#273>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

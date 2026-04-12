@@ -1,0 +1,9 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 26 year-old LF <David Meech:player#152651> of the <Birmingham-Bloomfield Beavers:team#382> is the #1 prospect overall.
+
+Here is the top 10:
+1) LF <David Meech:player#152651>, 26, <Birmingham-Bloomfield Beavers:team#382>
+2) RHP <Ethan Young:player#69013>, 25, <Eastside Diamond Hoppers:team#379>
+3) RHP <Adam Riggleman:player#62366>, 25, <Utica Unicorns:team#380>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.

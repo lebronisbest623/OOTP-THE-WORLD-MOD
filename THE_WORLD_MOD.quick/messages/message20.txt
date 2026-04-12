@@ -1,0 +1,16 @@
+BNN Top 100 Prospects List Published
+The season is about to start, so it's time to publish the annual BNN Top 100 Prospects list. This year, 25 year-old RHP <Jose Gregorio Perez:player#50998> of the <Borgerhout Squirrels:team#495> is the #1 prospect overall.
+
+Here is the top 10:
+1) RHP <Jose Gregorio Perez:player#50998>, 25, <Borgerhout Squirrels:team#495>
+2) C <Johiner Arguinzones:player#50966>, 24, <Deurne Spartans:team#499>
+3) RHP <Zeb Cappaert:player#63445>, 22, <Brasschaat Braves:team#496>
+4) LHP <Cazimir Vandervelden:player#69317>, 17, <Gent Knights:team#503>
+5) RHP <Tom Heymans:player#65356>, 23, <Namur Angels:team#502>
+6) C <Ken Spurgeon:player#67669>, 19, <Brussels Kangaroos:team#504>
+7) 3B <Matthias De Baets:player#65327>, 23, <Borgerhout Squirrels:team#495>
+8) SS <Arthur Heymans:player#65357>, 24, <Namur Angels:team#502>
+9) 2B <Nils Imbert:player#69036>, 18, <Borgerhout Squirrels:team#495>
+10) RHP <Tom Beeckmans:player#63469>, 20, <Merchtem Cats:team#505>
+
+You can view the full list in the <Top Prospects Report:page#38> from the reports menu. The <Top Minor League Systems Report:page#39> has been updated as well.
